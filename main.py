@@ -39,7 +39,7 @@ def chat_with_assistant(request: MessageRequest):
 
     return{
         "user_message": user_message,
-        "assistant_reponse": assistant_response
+        "assistant_response": assistant_response
     }
 
 @app.get("/messages")

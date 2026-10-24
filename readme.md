@@ -29,3 +29,6 @@ Backendi github'a yükle ve Render ile canlıya al
     git branch -M main
     git remote add origin https://github.com/GONCA-CLN/smart_assistant_backend.git
     git push -u origin main
+
+    Render URL:
+    https://smart-assistant-backend-ziz7.onrender.com
